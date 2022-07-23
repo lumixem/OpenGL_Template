@@ -4,6 +4,12 @@ This is a simple OpenGL template created in Visual Studio. It supports OpenGL ve
 
 The template already displays a simple triangle, contains a Dear ImGui context and displays an ImGui window, therefore it is easy to build upon and expand. 
 
+## Building
+1. Download the zip
+2. Extract to your desired location
+3. Open the .sln file
+4. Build the solution. The .vcxproj will then appear
+
 ### Current features:
 - [**GLFW**](https://www.glfw.org/)
 - [**GLAD**](https://glad.dav1d.de/)
