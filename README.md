@@ -10,7 +10,7 @@ The template already displays a simple triangle, contains a Dear ImGui context a
 3. Open the .sln file
 4. Build the solution. The .vcxproj will then appear
 
-### Current features:
+## Current features:
 - [**GLFW**](https://www.glfw.org/)
 - [**GLAD**](https://glad.dav1d.de/)
 - [**Dear ImGui**](https://github.com/ocornut/imgui)
@@ -18,7 +18,7 @@ The template already displays a simple triangle, contains a Dear ImGui context a
 - [**stb_image**](https://github.com/nothings/stb) for loading images/textures
 - **Loading shaders from files**
 
-#### Features to add:
+### Features to add:
 - Model loading using [assimp](https://github.com/assimp/assimp) or [tiny obj loader](https://github.com/tinyobjloader/tinyobjloader)
 - An input system
 
