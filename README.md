@@ -23,3 +23,5 @@ The template already displays a simple triangle, contains a Dear ImGui context a
 - An input system
 
 ![triangle](https://user-images.githubusercontent.com/78048342/180626613-707dd39b-b443-4b4a-b1c6-1e585c9d40ff.png)
+
+This project is licensed under the terms of the MIT license.
